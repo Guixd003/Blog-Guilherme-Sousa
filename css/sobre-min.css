@@ -1,0 +1,88 @@
+body {
+    background-color: black;
+    color: white;
+}
+ul {
+    background-color: rgb(70, 70, 70);
+    list-style-type: none;
+    justify-content: space-between;
+    padding: 10px;
+}
+nav li {
+    display: inline; 
+    margin: 0 0 0 50px;
+}
+a {
+    text-decoration: none; color: white;
+}
+.center {
+    text-align: center
+}
+#eu {
+    border: 5px solid rgb(0, 255, 255);
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+}
+nav a:hover {
+    color: rgb(0, 255, 255);
+}
+h1 {
+    color: rgb(0, 255, 255);
+}
+h3 {
+    color: rgb(0, 255, 255);
+}
+footer img {
+    height: 40px;
+    width: 40px;
+    justify-content: center;
+}
+footer {
+    display: flex;
+    justify-content: center
+}
+footer a {
+    margin: 25px;
+    text-align: center;
+}
+footer p {
+    margin-top: 2px
+}
+#final {
+    font-size: 60px;
+    text-align: center;
+}
+#barbear {
+    width: 50%;
+    height: 50%
+}
+#texto {
+    text-align: center;
+    font-size: 25px
+}
+#texto2 {
+    font-size: 25px
+}
+#Cen {
+    text-align: center;
+}
+.contato-forma input {
+    width: 100%;
+    padding: 8px 0;
+    margin: 8px 0;
+}
+.contato-forma input [type=text] {
+    height: 100px;
+}
+button {
+    color: black;
+    background-color: white;
+    border: none;
+    width: 100px;
+    height: 30px;
+}
